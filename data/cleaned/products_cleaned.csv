@@ -1,0 +1,201 @@
+sku_id;sku_name;category;subcategory;unit_price;cost_price;brand
+1001;Electronics_Chargers_1001;electronics;chargers;164.56;103.44;Budget
+1002;Dairy_Cream_1002;dairy;cream;13.73;8.96;Local
+1003;Household_Cleaning Supplies_1003;household;cleaning supplies;12;7.47;Bluemart
+1004;Beverages_Juices_1004;beverages;juices;24.82;17.58;International
+1005;Household_Paper Products_1005;household;paper products;17.7;13.68;Budget
+1006;Beverages_Coffee_1006;beverages;coffee;12.62;9.8;Premium
+1007;Personal Care_Shampoo_1007;personal care;shampoo;67.26;51.47;Bluemart
+1008;Personal Care_Shampoo_1008;personal care;shampoo;43.94;31.77;Premium
+1009;Electronics_Batteries_1009;electronics;batteries;90.95;61.82;Local
+1010;Grocery_Rice_1010;grocery;rice;16.43;10.05;Budget
+1011;Personal Care_Shampoo_1011;personal care;shampoo;20.37;16.28;Premium
+1012;Beverages_Juices_1012;beverages;juices;14.1;7.87;Premium
+1013;Grocery_Cereals_1013;grocery;cereals;35.63;24.33;Premium
+1014;Dairy_Butter_1014;dairy;butter;7.83;5.03;Premium
+1015;Dairy_Cream_1015;dairy;cream;27.13;19.22;Budget
+1016;Grocery_Rice_1016;grocery;rice;19.44;11.6;Bluemart
+1017;Household_Paper Products_1017;household;paper products;43.23;23.96;Budget
+1018;Personal Care_Deodorant_1018;personal care;deodorant;55.16;32.74;Budget
+1019;Electronics_Cables_1019;electronics;cables;211.86;152.31;Local
+1020;Beverages_Juices_1020;beverages;juices;9.96;7.12;Local
+1021;Grocery_Canned Goods_1021;grocery;canned goods;28.83;17.6;Bluemart
+1022;Household_Cleaning Supplies_1022;household;cleaning supplies;54.82;38.83;Premium
+1023;Personal Care_Toothpaste_1023;personal care;toothpaste;60.82;47.09;International
+1024;Grocery_Canned Goods_1024;grocery;canned goods;8.79;5.19;International
+1025;Household_Detergent_1025;household;detergent;8.48;4.88;Budget
+1026;Snacks_Biscuits_1026;snacks;biscuits;5.7;3.92;Budget
+1027;Snacks_Chips_1027;snacks;chips;6.05;3.35;Premium
+1028;Household_Paper Products_1028;household;paper products;41.78;31.85;Budget
+1029;Grocery_Canned Goods_1029;grocery;canned goods;27.9;19.78;Premium
+1030;Dairy_Cream_1030;dairy;cream;22.04;17.11;Premium
+1031;Snacks_Chips_1031;snacks;chips;15.27;10.28;Bluemart
+1032;Snacks_Chocolates_1032;snacks;chocolates;15.16;11.25;Bluemart
+1033;Household_Paper Products_1033;household;paper products;32.44;20.11;International
+1034;Household_Cleaning Supplies_1034;household;cleaning supplies;57.56;36.42;Budget
+1035;Electronics_Batteries_1035;electronics;batteries;245.38;139.58;Premium
+1036;Electronics_Mobile Accessories_1036;electronics;mobile accessories;89.48;53.01;Budget
+1037;Electronics_Cables_1037;electronics;cables;178.57;123.66;Bluemart
+1038;Electronics_Cables_1038;electronics;cables;99.28;60.91;Premium
+1039;Beverages_Soft Drinks_1039;beverages;soft drinks;25.91;15.14;Local
+1040;Electronics_Mobile Accessories_1040;electronics;mobile accessories;84.68;55.46;Premium
+1041;Snacks_Nuts_1041;snacks;nuts;13.76;9.29;Local
+1042;Grocery_Canned Goods_1042;grocery;canned goods;44.9;25;Budget
+1043;Electronics_Batteries_1043;electronics;batteries;23.45;15.63;Budget
+1044;Snacks_Biscuits_1044;snacks;biscuits;21.79;13.35;Bluemart
+1045;Electronics_Cables_1045;electronics;cables;141.21;89.2;Local
+1046;Household_Paper Products_1046;household;paper products;58.19;38.66;Local
+1047;Household_Detergent_1047;household;detergent;36.11;25.61;Local
+1048;Snacks_Biscuits_1048;snacks;biscuits;13.87;8.75;Local
+1049;Electronics_Batteries_1049;electronics;batteries;118.16;67.31;Bluemart
+1050;Snacks_Chips_1050;snacks;chips;17.84;10.07;International
+1051;Electronics_Cables_1051;electronics;cables;71.35;40.92;Bluemart
+1052;Snacks_Crackers_1052;snacks;crackers;16.68;11.33;Budget
+1053;Snacks_Crackers_1053;snacks;crackers;11.65;7.13;Premium
+1054;Snacks_Chips_1054;snacks;chips;9.86;5.65;Bluemart
+1055;Dairy_Butter_1055;dairy;butter;11.14;6.17;Local
+1056;Snacks_Nuts_1056;snacks;nuts;5.98;3.94;Premium
+1057;Beverages_Tea_1057;beverages;tea;26.94;16.57;Bluemart
+1058;Personal Care_Soap_1058;personal care;soap;45.07;30.87;Budget
+1059;Electronics_Cables_1059;electronics;cables;21.23;14.79;International
+1060;Household_Detergent_1060;household;detergent;37.82;22.02;Local
+1061;Personal Care_Skincare_1061;personal care;skincare;53.82;40.64;Budget
+1062;Personal Care_Deodorant_1062;personal care;deodorant;29.18;17.61;Premium
+1063;Snacks_Chocolates_1063;snacks;chocolates;16.22;10.29;Budget
+1064;Snacks_Biscuits_1064;snacks;biscuits;17.68;11.23;Premium
+1065;Electronics_Chargers_1065;electronics;chargers;177.83;113.29;International
+1066;Household_Cleaning Supplies_1066;household;cleaning supplies;49.78;30.89;Bluemart
+1067;Grocery_Cereals_1067;grocery;cereals;49.57;32.38;Premium
+1068;Electronics_Chargers_1068;electronics;chargers;95.09;74.43;International
+1069;Grocery_Spices_1069;grocery;spices;38.3;23.35;Premium
+1070;Grocery_Canned Goods_1070;grocery;canned goods;42.19;26.58;International
+1071;Grocery_Canned Goods_1071;grocery;canned goods;5.49;4.26;Bluemart
+1072;Electronics_Chargers_1072;electronics;chargers;238.26;187.67;Budget
+1073;Electronics_Chargers_1073;electronics;chargers;120.38;75.03;Premium
+1074;Personal Care_Skincare_1074;personal care;skincare;62.67;46.87;Local
+1075;Snacks_Crackers_1075;snacks;crackers;13.37;7.55;Budget
+1076;Snacks_Chocolates_1076;snacks;chocolates;22.42;14.3;Bluemart
+1077;Household_Cleaning Supplies_1077;household;cleaning supplies;47.6;33.54;Bluemart
+1078;Electronics_Cables_1078;electronics;cables;179.73;102.12;Local
+1079;Beverages_Juices_1079;beverages;juices;5.2;2.97;International
+1080;Snacks_Chips_1080;snacks;chips;22.25;13.55;International
+1081;Snacks_Nuts_1081;snacks;nuts;10.06;7.31;Premium
+1082;Household_Detergent_1082;household;detergent;44.66;27.34;Premium
+1083;Dairy_Cheese_1083;dairy;cheese;13.88;9.04;Budget
+1084;Household_Paper Products_1084;household;paper products;47.89;36.19;Local
+1085;Personal Care_Skincare_1085;personal care;skincare;26.63;17.31;Premium
+1086;Grocery_Rice_1086;grocery;rice;15.06;11.91;Bluemart
+1087;Snacks_Crackers_1087;snacks;crackers;9.42;5.28;International
+1088;Household_Cleaning Supplies_1088;household;cleaning supplies;21.16;15.32;Bluemart
+1089;Electronics_Mobile Accessories_1089;electronics;mobile accessories;65.95;41.13;International
+1090;Dairy_Cheese_1090;dairy;cheese;36.54;20.51;Premium
+1091;Dairy_Butter_1091;dairy;butter;8.74;5.54;Bluemart
+1092;Household_Detergent_1092;household;detergent;28.19;17.12;Premium
+1093;Snacks_Chips_1093;snacks;chips;7.98;5.29;Bluemart
+1094;Grocery_Rice_1094;grocery;rice;23.5;16.47;Premium
+1095;Snacks_Chocolates_1095;snacks;chocolates;20.92;16.47;Local
+1096;Electronics_Mobile Accessories_1096;electronics;mobile accessories;113.29;88.73;International
+1097;Snacks_Crackers_1097;snacks;crackers;2.61;1.68;Local
+1098;Electronics_Mobile Accessories_1098;electronics;mobile accessories;103.53;76.34;Premium
+1099;Personal Care_Toothpaste_1099;personal care;toothpaste;49.84;28.2;Bluemart
+1100;Electronics_Mobile Accessories_1100;electronics;mobile accessories;18.21;10.36;Budget
+1101;Snacks_Crackers_1101;snacks;crackers;24.92;17.17;Local
+1102;Snacks_Biscuits_1102;snacks;biscuits;21.54;13.18;Premium
+1103;Dairy_Milk_1103;dairy;milk;38.39;26.93;Premium
+1104;Grocery_Pasta_1104;grocery;pasta;21.12;12.22;Budget
+1105;Beverages_Water_1105;beverages;water;17.04;13;Budget
+1106;Snacks_Chocolates_1106;snacks;chocolates;11.28;6.58;Bluemart
+1107;Electronics_Mobile Accessories_1107;electronics;mobile accessories;160.77;116.72;Premium
+1108;Dairy_Butter_1108;dairy;butter;39.32;27.6;Budget
+1109;Electronics_Batteries_1109;electronics;batteries;36.39;26.62;Budget
+1110;Grocery_Canned Goods_1110;grocery;canned goods;18.41;12.54;Budget
+1111;Snacks_Nuts_1111;snacks;nuts;12.56;9.55;Local
+1112;Household_Paper Products_1112;household;paper products;10.38;7.32;Premium
+1113;Dairy_Cheese_1113;dairy;cheese;25.29;16.07;Budget
+1114;Electronics_Batteries_1114;electronics;batteries;152.42;99.08;Budget
+1115;Household_Paper Products_1115;household;paper products;44.22;28.87;International
+1116;Personal Care_Skincare_1116;personal care;skincare;78.12;54.72;Premium
+1117;Snacks_Crackers_1117;snacks;crackers;9.94;6.33;Bluemart
+1118;Dairy_Milk_1118;dairy;milk;23.7;15.14;International
+1119;Grocery_Pasta_1119;grocery;pasta;36.07;20.19;Local
+1120;Grocery_Cereals_1120;grocery;cereals;46.44;26.25;Premium
+1121;Grocery_Rice_1121;grocery;rice;31.88;25.39;Budget
+1122;Dairy_Yogurt_1122;dairy;yogurt;31.6;21.58;Local
+1123;Beverages_Water_1123;beverages;water;9.82;7.15;International
+1124;Dairy_Cheese_1124;dairy;cheese;23.62;13.62;Premium
+1125;Personal Care_Toothpaste_1125;personal care;toothpaste;26.97;16.65;Premium
+1126;Beverages_Soft Drinks_1126;beverages;soft drinks;25.7;14.71;Budget
+1127;Grocery_Rice_1127;grocery;rice;20.43;13.66;Premium
+1128;Grocery_Spices_1128;grocery;spices;26.58;18.5;Local
+1129;Electronics_Chargers_1129;electronics;chargers;152.84;105.63;Premium
+1130;Snacks_Nuts_1130;snacks;nuts;16.86;11.68;Premium
+1131;Snacks_Crackers_1131;snacks;crackers;23.47;12.95;Premium
+1132;Dairy_Butter_1132;dairy;butter;34.78;19.89;Local
+1133;Electronics_Mobile Accessories_1133;electronics;mobile accessories;33.85;23.06;Premium
+1134;Household_Paper Products_1134;household;paper products;13.83;8.98;International
+1135;Household_Trash Bags_1135;household;trash bags;50.49;31.02;Bluemart
+1136;Personal Care_Shampoo_1136;personal care;shampoo;60.29;41.22;Premium
+1137;Snacks_Nuts_1137;snacks;nuts;6.72;5.32;Local
+1138;Household_Cleaning Supplies_1138;household;cleaning supplies;46.28;31.58;Local
+1139;Dairy_Cream_1139;dairy;cream;22.71;17.78;Premium
+1140;Personal Care_Shampoo_1140;personal care;shampoo;35.85;23.79;Budget
+1141;Beverages_Coffee_1141;beverages;coffee;8.45;6.09;Bluemart
+1142;Electronics_Mobile Accessories_1142;electronics;mobile accessories;15.64;9.06;Premium
+1143;Dairy_Cheese_1143;dairy;cheese;17.21;13.46;Local
+1144;Household_Detergent_1144;household;detergent;14.46;10.6;International
+1145;Household_Trash Bags_1145;household;trash bags;11.46;8.43;Budget
+1146;Snacks_Chocolates_1146;snacks;chocolates;20.29;12.18;Bluemart
+1147;Snacks_Crackers_1147;snacks;crackers;20.74;14.86;Budget
+1148;Household_Cleaning Supplies_1148;household;cleaning supplies;53.61;34.75;Local
+1149;Electronics_Chargers_1149;electronics;chargers;103.58;68.95;Premium
+1150;Electronics_Batteries_1150;electronics;batteries;133.14;80.96;International
+1151;Electronics_Cables_1151;electronics;cables;142.73;110.85;Budget
+1152;Personal Care_Toothpaste_1152;personal care;toothpaste;53.94;34.18;Bluemart
+1153;Electronics_Batteries_1153;electronics;batteries;160.72;109.83;International
+1154;Household_Cleaning Supplies_1154;household;cleaning supplies;15.89;9.98;Premium
+1155;Electronics_Mobile Accessories_1155;electronics;mobile accessories;22.88;15.84;Local
+1156;Personal Care_Soap_1156;personal care;soap;33.95;25.64;Bluemart
+1157;Household_Cleaning Supplies_1157;household;cleaning supplies;14.63;9.5;Local
+1158;Snacks_Crackers_1158;snacks;crackers;7.27;5.31;Local
+1159;Electronics_Batteries_1159;electronics;batteries;178.08;122.11;Premium
+1160;Snacks_Nuts_1160;snacks;nuts;6.18;4.8;Budget
+1161;Electronics_Batteries_1161;electronics;batteries;82.66;58.17;International
+1162;Dairy_Yogurt_1162;dairy;yogurt;26.4;14.64;International
+1163;Household_Paper Products_1163;household;paper products;37.39;27.08;International
+1164;Electronics_Cables_1164;electronics;cables;196.24;126.3;Bluemart
+1165;Personal Care_Skincare_1165;personal care;skincare;17.3;13.15;International
+1166;Grocery_Spices_1166;grocery;spices;49.32;37.47;Bluemart
+1167;Grocery_Rice_1167;grocery;rice;44.15;30.01;Budget
+1168;Snacks_Chips_1168;snacks;chips;19.12;11.5;Local
+1169;Beverages_Soft Drinks_1169;beverages;soft drinks;6.09;3.98;International
+1170;Dairy_Yogurt_1170;dairy;yogurt;21.3;14.28;International
+1171;Personal Care_Toothpaste_1171;personal care;toothpaste;41.67;24.39;Bluemart
+1172;Electronics_Chargers_1172;electronics;chargers;113.45;88.34;Premium
+1173;Electronics_Batteries_1173;electronics;batteries;163.58;90.5;Budget
+1174;Electronics_Mobile Accessories_1174;electronics;mobile accessories;240.85;141.42;Premium
+1175;Household_Trash Bags_1175;household;trash bags;59.84;40.42;Budget
+1176;Snacks_Chocolates_1176;snacks;chocolates;6.83;5.29;Premium
+1177;Snacks_Chips_1177;snacks;chips;2.84;1.9;Budget
+1178;Beverages_Soft Drinks_1178;beverages;soft drinks;23.94;15.88;Budget
+1179;Household_Cleaning Supplies_1179;household;cleaning supplies;28.84;19.9;Bluemart
+1180;Grocery_Spices_1180;grocery;spices;8.4;6.2;Premium
+1181;Personal Care_Soap_1181;personal care;soap;38.61;21.48;Bluemart
+1182;Beverages_Tea_1182;beverages;tea;14.02;9.64;Premium
+1183;Electronics_Batteries_1183;electronics;batteries;133.79;93.49;Premium
+1184;Snacks_Chocolates_1184;snacks;chocolates;22.41;15.44;Local
+1185;Personal Care_Toothpaste_1185;personal care;toothpaste;77.39;60.84;Bluemart
+1186;Dairy_Yogurt_1186;dairy;yogurt;5.46;3.12;Premium
+1187;Personal Care_Skincare_1187;personal care;skincare;71.35;50.71;Local
+1188;Grocery_Spices_1188;grocery;spices;20.38;12.53;Premium
+1189;Electronics_Batteries_1189;electronics;batteries;77.99;55.06;Premium
+1190;Dairy_Milk_1190;dairy;milk;20.26;12.63;International
+1191;Dairy_Butter_1191;dairy;butter;9.9;7.59;Premium
+1192;Dairy_Milk_1192;dairy;milk;21.97;14.9;Local
+1193;Beverages_Tea_1193;beverages;tea;13.87;8.38;Budget
+1194;Dairy_Butter_1194;dairy;butter;9.63;7.46;Budget
+1195;Snacks_Chocolates_1195;snacks;chocolates;20.92;14.28;Local
+1196;Grocery_Pasta_1196;grocery;pasta;29.94;21.34;Local
+1197;Electronics_Mobile Accessories_1197;electronics;mobile accessories;17.58;10.27;International
+1198;Dairy_Cheese_1198;dairy;cheese;25.91;18.14;Budget
+1199;Electronics_Cables_1199;electronics;cables;229.89;150.51;Premium
+1200;Beverages_Juices_1200;beverages;juices;7.49;5.5;Bluemart

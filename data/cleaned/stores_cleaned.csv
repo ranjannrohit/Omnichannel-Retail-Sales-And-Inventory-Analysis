@@ -1,0 +1,51 @@
+store_id,store_name,city,store_type,opening_date
+9,Bluemart Store 09,Abu Dhabi,MALL,2017-01-01 00:00:00.000
+10,Bluemart Store 10,Abu Dhabi,MALL,2017-01-31 00:00:00.000
+11,Bluemart Store 11,Dubai,MALL,2017-03-02 00:00:00.000
+12,Bluemart Store 12,Sharjah,MALL,2017-04-01 00:00:00.000
+13,Bluemart Store 13,Sharjah,COMMUNITY,2017-05-01 00:00:00.000
+14,Bluemart Store 14,Dubai,MALL,2017-05-31 00:00:00.000
+15,Bluemart Store 15,Dubai,MALL,2017-06-30 00:00:00.000
+16,Bluemart Store 16,Dubai,HIGH STREET,2017-07-30 00:00:00.000
+17,Bluemart Store 17,Dubai,MALL,2017-08-29 00:00:00.000
+18,Bluemart Store 18,Abu Dhabi,COMMUNITY,2017-09-28 00:00:00.000
+19,Bluemart Store 19,Dubai,MALL,2017-03-31 00:35:07.317
+20,Bluemart Store 20,Dubai,COMMUNITY,2017-04-08 22:14:38.049
+21,Bluemart Store 21,Abu Dhabi,HIGH STREET,2017-04-17 19:54:08.780
+22,Bluemart Store 22,Dubai,MALL,2017-04-26 17:33:39.512
+23,Bluemart Store 23,Dubai,MALL,2017-05-05 15:13:10.244
+24,Bluemart Store 24,Dubai,COMMUNITY,2017-05-14 12:52:40.976
+25,Bluemart Store 25,Dubai,HIGH STREET,2017-05-23 10:32:11.707
+1,Bluemart Store 01,Dubai,COMMUNITY,2017-06-01 00:00:00.000
+26,Bluemart Store 26,Abu Dhabi,HIGH STREET,2017-06-01 08:11:42.439
+27,Bluemart Store 27,Dubai,HIGH STREET,2017-06-10 05:51:13.171
+28,Bluemart Store 28,Abu Dhabi,MALL,2017-06-19 03:30:43.902
+29,Bluemart Store 29,Abu Dhabi,MALL,2017-06-28 01:10:14.634
+2,Bluemart Store 02,Sharjah,HIGH STREET,2017-07-01 00:00:00.000
+30,Bluemart Store 30,Dubai,MALL,2017-07-06 22:49:45.366
+31,Bluemart Store 31,Abu Dhabi,COMMUNITY,2017-07-15 20:29:16.098
+32,Bluemart Store 32,Dubai,HIGH STREET,2017-07-24 18:08:46.829
+3,Bluemart Store 03,Abu Dhabi,COMMUNITY,2017-07-31 00:00:00.000
+33,Bluemart Store 33,Dubai,MALL,2017-08-02 15:48:17.561
+34,Bluemart Store 34,Sharjah,MALL,2017-08-11 13:27:48.293
+35,Bluemart Store 35,Sharjah,MALL,2017-08-20 11:07:19.024
+36,Bluemart Store 36,Sharjah,MALL,2017-08-29 08:46:49.756
+4,Bluemart Store 04,Abu Dhabi,COMMUNITY,2017-08-30 00:00:00.000
+37,Bluemart Store 37,Dubai,HIGH STREET,2017-09-07 06:26:20.488
+38,Bluemart Store 38,Dubai,HIGH STREET,2017-09-16 04:05:51.220
+39,Bluemart Store 39,Abu Dhabi,COMMUNITY,2017-09-25 01:45:21.951
+5,Bluemart Store 05,Dubai,HIGH STREET,2017-09-29 00:00:00.000
+40,Bluemart Store 40,Dubai,HIGH STREET,2017-10-03 23:24:52.683
+41,Bluemart Store 41,Dubai,MALL,2017-10-12 21:04:23.415
+42,Bluemart Store 42,Dubai,HIGH STREET,2017-10-21 18:43:54.146
+6,Bluemart Store 06,Dubai,COMMUNITY,2017-10-29 00:00:00.000
+43,Bluemart Store 43,Dubai,HIGH STREET,2017-10-30 16:23:24.878
+44,Bluemart Store 44,Sharjah,HIGH STREET,2017-11-08 14:02:55.610
+45,Bluemart Store 45,Dubai,HIGH STREET,2017-11-17 11:42:26.341
+46,Bluemart Store 46,Abu Dhabi,HIGH STREET,2017-11-26 09:21:57.073
+7,Bluemart Store 07,Dubai,MALL,2017-11-28 00:00:00.000
+47,Bluemart Store 47,Dubai,HIGH STREET,2017-12-05 07:01:27.805
+48,Bluemart Store 48,Abu Dhabi,HIGH STREET,2017-12-14 04:40:58.537
+49,Bluemart Store 49,Abu Dhabi,MALL,2017-12-23 02:20:29.268
+8,Bluemart Store 08,Sharjah,MALL,2017-12-28 00:00:00.000
+50,Bluemart Store 50,Dubai,MALL,2018-01-01 00:00:00.000
